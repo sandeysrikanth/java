@@ -1,1 +1,2 @@
-#test
+cd #test
+qhrlawhfl
